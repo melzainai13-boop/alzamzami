@@ -1,0 +1,7 @@
+{
+  "name": "Al-Zamzami Smart Assistant",
+  "description": "A smart conversational assistant for Al-Zamzami Medical Supplies, featuring voice and text interaction in Sudanese dialect.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
